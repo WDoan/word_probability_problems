@@ -1,0 +1,1 @@
+ Suppose that the distribution of diastolic blood pressure in a population of hypertensive women is modeled well by a normal probability distribution with mean 100 mm Hg and standard deviation 14 mm Hg. Let X be the random variable representing this distribution. Find two symmetric values “a” and “b” such that Probability [a<X<b]=.99 

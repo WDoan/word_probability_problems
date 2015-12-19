@@ -1,0 +1,1 @@
+The average number of acres burned by forest and range fires in a large New Mexico county is 4,300 acresper year, with a standard deviation of 750 acres. The distribution of the number of acres burned is normal.What is the probability that between 2,500 and 4,200 acres will be burned in any given year?

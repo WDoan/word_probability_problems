@@ -1,0 +1,1 @@
+The number of accidents occurring in a city in a day is a Poisson variate with mean0.8. Find the probability that on a randomly selected day(i) There are no accidents(ii) There are accidents

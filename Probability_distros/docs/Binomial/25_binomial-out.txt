@@ -1,0 +1,1 @@
+In the old days, there was a probability of 0.8 of success in any attempt to make a telephone call. (This often depended on the importance of the person making the call, or the operator's curiosity!)Calculate the probability of having 7 successes in 10 attempts.

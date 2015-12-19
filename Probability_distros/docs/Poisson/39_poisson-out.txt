@@ -1,0 +1,1 @@
+The number of telephone calls that pass through a switchboard has aPoisson distribution with mean equal to 2 per minute. The probabilitythat no telephone calls pass through the switch board in two consecutiveminutes is:

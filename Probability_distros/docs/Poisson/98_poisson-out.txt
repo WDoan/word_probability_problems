@@ -1,0 +1,1 @@
+A typical page in a book contains one typo per page. What is the probabilitythat there are exactly 8 typos in a given 10-page chapter?

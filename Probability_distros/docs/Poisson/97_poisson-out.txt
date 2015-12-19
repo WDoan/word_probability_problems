@@ -1,0 +1,1 @@
+Let X have a Poisson distribution with variance o^2=3. Find P(X=2).

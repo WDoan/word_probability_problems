@@ -1,0 +1,1 @@
+A farmer has an average of 7 weeds per acre on his farm during the summer months. On any acre in the summer, what is the probability that the farmer has less than 3 weeds?

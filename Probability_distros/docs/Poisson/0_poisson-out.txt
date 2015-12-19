@@ -1,0 +1,1 @@
+Vehicles pass through a junction on a busy road at an average rate of 300 per hour.a) Find the probability that none passes in a given minute.b) What is the expected number passing in two minutes?c) Find the probability that this expected number actually pass through in a given two-minute period.

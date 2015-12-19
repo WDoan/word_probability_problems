@@ -1,0 +1,1 @@
+What is the probability that it takes you less than 5 rolls to roll your first “3”?

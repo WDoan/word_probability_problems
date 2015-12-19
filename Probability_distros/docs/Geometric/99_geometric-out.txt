@@ -1,0 +1,1 @@
+Assume the geometric distribution applies. Use the given probability of success to find the indicated probability. Find P(4) when p=0.11.

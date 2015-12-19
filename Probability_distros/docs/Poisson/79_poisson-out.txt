@@ -1,0 +1,1 @@
+The demand of cheese cakes at a bakery is a random variable (X) having the Poissondistribution with lambda=3.4. The cost of producing each cake is $20 and each is sold at aprofit of $40. Suppose 5 cakes are made each day, and no cake is reserved for the nextday.a) What is the probability that all cheese cakes are sold in a certain day

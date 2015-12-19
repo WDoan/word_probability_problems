@@ -1,0 +1,1 @@
+There are 10 members on a committee. The probability of any member attending a randomly chosen meeting is 0.9. The committee cannot do business if more than 3 members are absent. What is the probability that 7 or more members will be present on a given date?

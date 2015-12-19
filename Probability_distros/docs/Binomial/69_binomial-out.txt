@@ -1,0 +1,1 @@
+The Choco-Latie Candies company makes candy-coated chocolates, 40% of which are red. The production line mixes the candies randomly and packages ten per box.(a) What is the probability that less than four candies in a given box are red?

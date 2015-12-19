@@ -1,0 +1,1 @@
+The number of misprints on a page has a Poisson distribution with mean 5.5. What is themost likely number of misprints on a page? 

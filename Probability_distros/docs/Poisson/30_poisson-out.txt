@@ -1,0 +1,1 @@
+In the Pacific ocean, there is an average of 1.5 fish per gallon of water. If you looked at any given gallon of water in the Pacific Ocean, what is the probability that there would be exactly 3 fish?

@@ -1,0 +1,1 @@
+Dr. Smith wants to repeat Milgram’s experiments but she only wants to sample people until she finds someone who will not inflict a severe shock. Whatis the probability that she stops after the first person?

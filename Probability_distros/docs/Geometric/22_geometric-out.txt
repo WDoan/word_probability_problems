@@ -1,0 +1,1 @@
+Two friends play a game taking turns tossing a fair coin. The first person to toss a head wins. What is the probability that the person who tosses first wins?

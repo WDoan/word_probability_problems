@@ -1,0 +1,1 @@
+Only 4% of people have Type AB blood. What is the probability that at most five people will have to be checked before first finding someone with Type AB blood? 

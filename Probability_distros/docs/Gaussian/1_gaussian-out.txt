@@ -1,0 +1,1 @@
+Calculate the value of a in a normal distribution with a mean of 4 and a standard deviation of 2 for which:P(4−a≤x≤4+a)=0.5934

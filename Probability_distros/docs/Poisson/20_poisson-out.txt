@@ -1,0 +1,1 @@
+The number of road construction projects that take place at any one time in a certain city follows a Poisson distribution with a mean of  7. Find the probability that more than four road construction projects are currently taking place in the city. 

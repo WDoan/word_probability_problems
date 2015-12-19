@@ -1,0 +1,1 @@
+Suppose a computer chip manufacturer rejects 2% of chips produced because they fail pre-sale testing. Find the number of chips that you expect to test before finding the first bad chip.

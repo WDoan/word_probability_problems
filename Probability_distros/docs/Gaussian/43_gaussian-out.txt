@@ -1,0 +1,1 @@
+A normally distributed set of data has a mean of 20 and a standard deviation of 3. Determine the probability that a randomly selected x–value is between 14 and 26.

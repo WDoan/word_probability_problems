@@ -1,0 +1,1 @@
+Roll a fair die. Find the probability of occuring 4 on the 5th trial. 

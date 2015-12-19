@@ -1,0 +1,1 @@
+The count of children with type O blood among parents that carry genes for both O and the A blood type follows a geometric distribution with p = 0.25.  Suppose a couple (meeting the above characteristics) plans to have children until they have a child with type O blood.  Find the probability the couple has at most 3 children.

@@ -1,0 +1,1 @@
+The odds of winning the Mega Million lottery is one in 176 million. Out of 176 million lottery tickets sold, what is the probability of having no winning ticket? What is the exact probability model in this problem?

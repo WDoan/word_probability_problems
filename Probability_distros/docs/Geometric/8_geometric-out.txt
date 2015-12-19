@@ -1,0 +1,1 @@
+Matthew is a high school basketball player and a 75% free throw shooter. What is the probability that Matthew makes his first free throw on his fifth shot?

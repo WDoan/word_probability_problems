@@ -1,0 +1,1 @@
+A manufacturer of halogen bulbs knows that 3% of the production of their 100 W bulbs will be defective. What is the probability that exactly 5 bulbs in a carton of 144 bulbs will be defective?

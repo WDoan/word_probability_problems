@@ -1,0 +1,1 @@
+An average scanned image occupies 0.6 megabytes of memory with a standard deviationof 0.4 megabytes. If you plan to install 80 images on your web site, what is the probabilitythat their total size is between 47 megabytes and 56 megabytes.

@@ -1,0 +1,1 @@
+A normally distributed set of data has a mean of 60 and a standard deviation of 10. What percent of data lies between 40 and 70?

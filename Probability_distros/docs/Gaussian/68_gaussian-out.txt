@@ -1,0 +1,1 @@
+A baker knows that the daily demand for apple pies is a random variable which follows the normal distributionwith mean 43.3 pies and standard deviation 4.6 pies. Find the demand which has probability 5% ofbeing exceeded.

@@ -1,0 +1,1 @@
+Assume that a machine can fill cereal boxes with a mean of 36 ounces and a standard deviation of 1 ounce.a) What percentage of boxes will have between 37 and 38 ounces?b) What percentage of boxes will have less than 35 ounces?c) How light must a box be to be in the lowest five percent of all boxes?

@@ -1,0 +1,1 @@
+The scoring of modern IQ tests is such that Intelligence Quotients (IQs) have Normaldistribution with u=100 and o=15.(a) What percent of people have IQ less than 80?(b) What percent of people have IQ greater than 120?(c) Mensa International is a non-profit organization that accepts only people with IQ within thetop 2%. What level of IQ qualifies one to be a member of Mensa?

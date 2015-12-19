@@ -1,0 +1,1 @@
+The university policy department must write, on average, five tickets per day to keep department revenues at budgeted levels. Suppose the number of tickets written per day follows a Poisson distribution with a mean of  8.8 tickets per day. Find the probability that less than six tickets are written on a randomly selected day from this distribution. 

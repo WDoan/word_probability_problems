@@ -1,0 +1,1 @@
+Ten percent of computer parts produced by a certain supplier are defective. What is the probability that a sample of 10 parts contains more than 3 defective ones?

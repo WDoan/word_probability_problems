@@ -1,0 +1,1 @@
+The chance that any one telephone line is busy at a given moment of time is 0.01. What is the chance that out of 5 telephone lines, less than 3 lines are busy?

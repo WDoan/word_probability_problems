@@ -1,0 +1,1 @@
+In a particular city, one in three families have a phone in their home. If 90 families are chosen at random, calculate the probability that at least 30 of them will have a phone.

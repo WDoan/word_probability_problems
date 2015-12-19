@@ -1,0 +1,1 @@
+In a city, it is estimated that the maximum temperature in June is normally distributed with a mean of 23 and a standard deviation of 5. Calculate the number of days in this month in which it is expected to reach a maximum of between 21 and 27.

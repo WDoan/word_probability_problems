@@ -1,0 +1,1 @@
+By some estimates, twenty-percent (20%) of Americans have no health insurance. Randomly sample n = 15 Americans. Let X denote the number in the sample with no health insurance. What is the probability that at most 0 of the 15 sampled have no health insurance?

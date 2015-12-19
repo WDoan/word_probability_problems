@@ -1,0 +1,1 @@
+A typist makes on average 2 mistakes per page. What is the probability of a particular page having no errors on it?

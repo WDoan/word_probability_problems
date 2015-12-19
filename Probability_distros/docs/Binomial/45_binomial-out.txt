@@ -1,0 +1,1 @@
+Team A and Team B are playing in a league. They will play each other five times. If the probability that team A wins a game is 1/3, what is the probability that team A will win at least three of the five games?

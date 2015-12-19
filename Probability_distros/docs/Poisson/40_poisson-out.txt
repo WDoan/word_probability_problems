@@ -1,0 +1,1 @@
+A can company reports that the number of breakdowns per 8-hour shifton its machine-operated assembly line follows a Poisson distribution witha mean of 1.5. Assuming that the machine operates independently acrossshifts, what is the probability of no breakdowns during three consecutive8-hour shifts?

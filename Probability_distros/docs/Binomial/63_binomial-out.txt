@@ -1,0 +1,1 @@
+What is the probability of getting 18 heads in 20 tosses of a fair coin?

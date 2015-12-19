@@ -1,0 +1,1 @@
+The amount of monsoon rain in Tucson is approximately Normally distributedwith mean 5.89 inches and standard deviation 2.23 inches. In what percents of all years is the monsoon rainfall in Tucson between 4 inches and 7 inches?

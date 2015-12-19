@@ -1,0 +1,1 @@
+Suppose that the weight (X) in pounds, of a 40-year-old man is a normal random variable with standarddeviation o=20 pounds. If 5% of this population is heavier than 214 pounds what is the mean u of thisdistribution?

@@ -1,0 +1,1 @@
+Only 4% of people have Type AB blood. What is the probability that out of 10 donors at least one have Type AB blood? 

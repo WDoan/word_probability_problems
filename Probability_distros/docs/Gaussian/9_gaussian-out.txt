@@ -1,0 +1,1 @@
+A study has shown that, in a certain neighborhood, 60% of households have at least two TVs. In this same area, 50 households are randomly selected for a study.a) What is the probability that at least 20 of those households have at least two TVs?b) What is the probability that between 35 and 40 households have at least two TVs?

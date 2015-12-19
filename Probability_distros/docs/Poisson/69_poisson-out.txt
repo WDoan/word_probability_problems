@@ -1,0 +1,1 @@
+On average a book contains 0.32 errors per page. What is the probability that a particularpage contains 4 errors? What is the probability it contains at most 1 error?

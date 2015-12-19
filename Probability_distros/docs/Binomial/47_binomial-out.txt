@@ -1,0 +1,1 @@
+In a box of floppy discs it is known that 95% will work. A sample of three of the discs is selected at random. Find the probability that none work.

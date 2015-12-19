@@ -1,0 +1,1 @@
+Several intelligence tests follow a normal distribution with a mean of 100 and a standard deviation of 15.a) Determine the percentage of the population that would obtain a score between 95 and 110.b) What interval centered at a score of 100 contains 50% of the population?c) For a population of 2,500, how many are expected to have a score above 125?

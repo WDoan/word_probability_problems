@@ -1,0 +1,1 @@
+The number of radioactive emissions from two sources, A and B, are independent Poisson distributions with means of 1.5 and 2.5 per minute, respectively.  Find the probability that:a) there are at least 4 emissions from A in 2 minutesb) there are at most 3 emissions from B in 2 minutesc) there are a total of 7 emissions from A and B in 2 minutes.	

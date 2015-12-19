@@ -1,0 +1,1 @@
+A bad stretch of road has, on average, 65 accidents per year.  Assuming a Poisson model is applicable,a) Find the probability that during a given week there will be	i) No accidents.	ii) More than one accident.b)	Find  the probability that during a 10-week period there will be exactly 5 weeks with no accidents.

@@ -1,0 +1,1 @@
+If X is binomially distrbuted with 6 trials and a probability of success equal to 1/4 each attempt, what is the probability of at least 1 success?

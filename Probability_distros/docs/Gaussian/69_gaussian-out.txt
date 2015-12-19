@@ -1,0 +1,1 @@
+Suppose that the height of UCLA female students has normal distribution with mean 62 inches and standarddeviation 8 inches.a) Find the height below which is the shortest 30% of the female students.b) Find the height above which is the tallest 5% of the female students

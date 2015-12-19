@@ -1,0 +1,1 @@
+An an experiment conducted we see that the products produced by a machine is 3% defective. What is the probability that the first defective occurs in the first five items inspected?

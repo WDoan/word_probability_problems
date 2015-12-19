@@ -1,0 +1,1 @@
+The number of traffic accidents that occur on a particular stretch of road during a month follows a Poisson distribution with a mean of  6.8. Find the probability that the next two months will both result in  four accidents each occurring on this stretch of road

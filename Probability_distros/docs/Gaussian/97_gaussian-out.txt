@@ -1,0 +1,1 @@
+The weight of football players is normally distributed with a mean of 200 lb. and a standard deviation of 25 lb..  The probability of a player weighing less than 250 lb. is 

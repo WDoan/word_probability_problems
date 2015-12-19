@@ -1,0 +1,1 @@
+A company owns 400 laptops. Each laptop has an 8% probability of not working. You randomly select 20 laptops for your salespeople. What is the likelihood that they will all be broken?

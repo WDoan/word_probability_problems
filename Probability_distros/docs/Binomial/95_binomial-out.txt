@@ -1,0 +1,1 @@
+In a family of 4 children find the probability of having atleast one boy.

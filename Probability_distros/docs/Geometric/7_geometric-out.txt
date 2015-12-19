@@ -1,0 +1,1 @@
+Among employed women, 25% have never been married. What is the probability that we sample at most 2 women before finding one who has never been married?

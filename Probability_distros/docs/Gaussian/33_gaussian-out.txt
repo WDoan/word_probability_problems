@@ -1,0 +1,1 @@
+Yearly precipitation in Trepidation, Wyoming, is normally distributed about a meanof 8 inches, and the standard deviation is 1 inch. Find:(a) the probability that the precipitation in the next 12 months exceeds 9 inches.(b) the probability that next year’s precipitation is at most 6 inches.(c) the probability that the precipitation next year is between 6 and 9 inches.

@@ -1,0 +1,1 @@
+Among employed women, 25% have never been married. Suppose we randomly sample women in a particular business office. What is the probability that the first woman who says she has never been married is the fourth woman I sample?

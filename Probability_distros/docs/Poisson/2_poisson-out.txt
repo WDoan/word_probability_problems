@@ -1,0 +1,1 @@
+The time elapsed between the arrival of a customer at a shop and the arrival of the next customer has an exponential distribution with expected value equal to 15 minutes. Furthermore, it is independent of previous arrivals. What is the probability that more than 6 customers arrive at the shop during the next hour?

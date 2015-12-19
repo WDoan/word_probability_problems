@@ -1,0 +1,1 @@
+A rat has to choose between 5 doors, one of which contains chocolate.If the rat chooses the wrong door,	it is returned to the starting point and chooses again, and continues until it gets the chocolate.	Let X be the serial number of the trial on which the chocolate is found. Find the probability of X=1.

@@ -1,0 +1,1 @@
+If the probability that a target is destroyed on any one shot is 0.5, what is the probability that it would be destroyed on 6th attempt?

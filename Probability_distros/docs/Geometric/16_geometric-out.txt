@@ -1,0 +1,1 @@
+We shuffle a standard deck of playing cards well. Then turn over a card at a tome from the top of the deck until we get an ace. The probability of getting an ace is 1/13. Find the probability that we get an ace in the fifth draw.

@@ -1,0 +1,1 @@
+A firm’s marketing manager believes that total sales for next year will follow the normal distribution, withmean of $2.5 million and a standard deviation of $300, 000.a) What is the probability that the firm’s sales will fall within $150000 of the mean?b) Determine the sales level that has only a 9% chance of being exceeded next year.

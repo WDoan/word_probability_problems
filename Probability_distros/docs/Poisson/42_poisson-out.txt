@@ -1,0 +1,1 @@
+The number of arrivals per hour at an automatic teller machine is Poissondistributed with a mean of 3.5 arrivals/hour. What is the probability thatmore than three arrivals occur in an hour?

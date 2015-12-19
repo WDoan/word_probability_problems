@@ -1,0 +1,1 @@
+The time spent by students working on a project is a Normal random variable withparameters u=12 hours and o=4 hours. Compute the probability that(a) the amount of time spent on the project is less than 14 hours.(b) amount of time spent on the project is greater than 8 hours.

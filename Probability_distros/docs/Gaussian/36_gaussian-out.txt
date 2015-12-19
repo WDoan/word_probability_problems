@@ -1,0 +1,1 @@
+Most graduate schools of business require applicants for admission to take the Graduate ManagementAdmission Council’s GMAT examination. Scores on the GMAT are roughly normally distributed with amean of 527 and a standard deviation of 112. What is the probability of an individual scoring above 500 onthe GMAT? 

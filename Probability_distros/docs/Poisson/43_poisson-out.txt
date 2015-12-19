@@ -1,0 +1,1 @@
+ The marketing manager of a company has noted that she usually receives10 complaint calls during a week (consisting of five working days), andthat the calls occur at random. Let us suppose that the number of callsduring a week follows the Poisson distribution. The probability that shegets five such calls in one day is:

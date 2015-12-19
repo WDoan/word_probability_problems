@@ -1,0 +1,1 @@
+Let Z be a Standard Normal random variable.Compute(a) P(Z < 0.97)(b) P(Z ≤ 0.97)(c) P(Z > 0.97)(d) P(|Z| ≤ 0.97)(e) P(Z < −5.0)(f) P(Z > −5.0)

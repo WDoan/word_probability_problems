@@ -1,0 +1,1 @@
+A study indicates that 4% of American teenagers have tattoos. You randomly sample 30 teenagers. What is the likelihood that exactly 3 will have a tattoo? 

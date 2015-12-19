@@ -1,0 +1,1 @@
+Find the probability of obtaining the first 5 on the second die roll.

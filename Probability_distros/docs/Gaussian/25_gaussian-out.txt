@@ -1,0 +1,1 @@
+Heights of Swedish men follow a normal distribution with mean 72 in and standard deviation 5 in. How high must a doorway be so that 90% of Swedish men can go through without having to bend?

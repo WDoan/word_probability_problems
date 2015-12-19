@@ -1,0 +1,1 @@
+Approximately 44% of all Americans have blood type O. What is the probability that exactly 3 people need to be sampled in order to find someone who has blood type O?

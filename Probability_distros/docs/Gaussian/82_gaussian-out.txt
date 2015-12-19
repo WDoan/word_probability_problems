@@ -1,0 +1,1 @@
+Let  X be a random variable having a normal distribution with mean  u=1 and variance  o^2=16. Compute the following probability:P(X>9)

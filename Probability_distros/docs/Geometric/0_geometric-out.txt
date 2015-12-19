@@ -1,0 +1,1 @@
+ A basketball player makes 60% of his free throws. We set him on the line of free-throw and informed him to shoot free throws until he misses. Let the random variable X be the number of free throws taken by the player until he misses. Assuming that his shots are independent, find the probability that he will miss the shot on his 6th throw.

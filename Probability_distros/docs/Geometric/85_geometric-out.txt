@@ -1,0 +1,1 @@
+Suppose that Erin guesses on each question of a multiple-choice quiz. If each question has five choices, find the probability that Erin answers the first question correctly.

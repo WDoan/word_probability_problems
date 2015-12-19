@@ -1,0 +1,1 @@
+Suppose that the height (X) in inches, of a 25-year-old man is a normal random variable with mean u=70inches. If P(X>79)=0.025 what is the standard deviation of this random normal variable?

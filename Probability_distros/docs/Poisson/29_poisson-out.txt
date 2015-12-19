@@ -1,0 +1,1 @@
+An industrial supply company averages 3.4 minor defects per vehicle sold. For any given vehicle, what is the probability that there are more than 5 minor defects?

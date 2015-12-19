@@ -1,0 +1,1 @@
+Suppose we have data that suggest that 3% of a company’s hard disk drives are defective.  You have been asked to determine the probability that the first defective hard drive is the fifth unit tested. What is the probability that the first defective hard drive is the fifth unit tested?

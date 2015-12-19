@@ -1,0 +1,1 @@
+Suppose X is normal with mean 527 and standard deviation 105. ComputeP(X≤310).

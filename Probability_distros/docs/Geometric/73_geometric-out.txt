@@ -1,0 +1,1 @@
+Carla makes random guesses on her Statistics multiple-choice test, which has five choices for each question. We want to know how many questions Carla answers until she gets one correct? What is the probability that Carla must answer more than 10 questions before obtaining a correct answer?

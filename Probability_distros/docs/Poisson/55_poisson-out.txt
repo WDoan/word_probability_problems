@@ -1,0 +1,1 @@
+A 5-county area in Kansas is hit on average by 3 tornadoes a year (assuming annual Poisson tornado count). What is the probability that the number of tornadoes will be more than the historical average next year in this area?

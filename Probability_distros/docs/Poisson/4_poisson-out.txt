@@ -1,0 +1,1 @@
+Events occur according to a Poisson process with rate 2 per hour.(a) What is the probability that no event occurs between 8 p.m. and 9 p.m.?(b) What is the probability that two or more events occur between 6 p.m. and 8 p.m.?

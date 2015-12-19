@@ -1,0 +1,1 @@
+One type of jet engine has a 0.0001 probability of failure while in flight. For a jet that has four of these engines, what is the probability of at least two of them failing?

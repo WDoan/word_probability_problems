@@ -1,0 +1,1 @@
+Heights of fourth graders are normally distributed with a mean of 52 inches and astandard deviation of 3.5 inches. For a research project, you plan to measure a simplerandom sample of 30 fourth graders. For samples such as yours, 10% of the samplesshould have an average height below what number? 

@@ -1,0 +1,1 @@
+If the number of trials are 8 and the probability of success are 0.65 then the mean of negative probability distribution is

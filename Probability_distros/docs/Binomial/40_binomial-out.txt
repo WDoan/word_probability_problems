@@ -1,0 +1,1 @@
+At Covington High School, 20% of sixth-form mathematics students retake their C1 module. There are 15 students in Mr Smither’s class; find the probability that precisely four of them retake this module.

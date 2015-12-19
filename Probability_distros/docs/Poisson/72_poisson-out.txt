@@ -1,0 +1,1 @@
+If you buy 200 lottery tickets and your chance of winning on each on is 1/100 find thatprobability you win? Find the probability that at least 2 of your tickets are winning tickets.Find the probability that at most 3 of your tickets are winning tickets

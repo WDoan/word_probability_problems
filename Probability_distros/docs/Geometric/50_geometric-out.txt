@@ -1,0 +1,1 @@
+Strela is rolling a die. What is the probability of getting 5 in the 4th attempt?

@@ -1,0 +1,1 @@
+The heights of 100 students are normally distributed with a mean of 172cm. What is the standard deviation of the heights given that the probability of a height above 180cm is .25? 

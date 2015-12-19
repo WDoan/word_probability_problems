@@ -1,0 +1,1 @@
+Among employed women, 25% have never been married. What is the probability that we find the first never-married woman within the first 5 we sample?

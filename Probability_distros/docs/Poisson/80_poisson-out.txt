@@ -1,0 +1,1 @@
+The mean number of bacteria per millilitre of a liquid is known to be 4.  Assuming that the number of bacteria follows a Poisson distribution, find the probability that, in 1 ml of liquid, there will be 

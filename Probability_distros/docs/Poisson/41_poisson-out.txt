@@ -1,0 +1,1 @@
+A fisherman arrives at his favorite fishing spot. From past experiencehe knows that the number of fish he catches per hour follows a Poissondistribution at 0.5 fish/hour. The probability that he catches at least 3fish in four hours is:

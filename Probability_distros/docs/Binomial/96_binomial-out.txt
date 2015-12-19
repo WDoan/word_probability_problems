@@ -1,0 +1,1 @@
+ A group of people gathered for a small party. 15% of them are left handed, find the probability that if 6 people are chosen at random, all of them are left handed.

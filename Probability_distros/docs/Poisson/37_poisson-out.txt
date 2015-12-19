@@ -1,0 +1,1 @@
+The number of bacteria in a drop of water from a lake has a Poissondistribution with an average of 0.5 bacteria/drop. A small dish containingfour drops of water from the lake is placed under a microscope. Theprobability of observing at most one bacteria in the sample is

@@ -1,0 +1,1 @@
+Suppose that X has a Poisson distribution and we know that P(X=1)=P(X=4).What is P(X=3)? What is the expected value and variance of this distribution?

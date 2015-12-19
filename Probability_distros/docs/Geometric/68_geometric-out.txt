@@ -1,0 +1,1 @@
+A basketball player makes 80% of her free throws. We put her on the free-throw line and ask her to shoot free throws until she misses. Let X = the number of free throws the player takes until she misses. What is the probability that she will not miss a shot within her first 5 attempts?

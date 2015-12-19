@@ -1,0 +1,1 @@
+The top 5% of applicants (as measured by GRE scores) will receive scholarships. If GRE ~N(500,100^2), how high does your GRE score have to be to qualify for a scholarship?

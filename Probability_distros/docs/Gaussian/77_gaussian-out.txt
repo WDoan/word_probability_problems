@@ -1,0 +1,1 @@
+The amount of fuel, in litres, which a vessel will use on a short voyage has a normaldistribution with mean 90 and variance 16. Find the probability that it will usemore than 95 litres.

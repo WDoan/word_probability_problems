@@ -1,0 +1,1 @@
+The Edwards’s Theater chain has studied its movie customers to determine how much money they spend onconcessions. The study revealed that the spending distribution is approximately normally distributed with amean of $4.11 and a standard deviation of $1.37. What percentage of customers will spend less than $3.00on concessions? 

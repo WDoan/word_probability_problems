@@ -1,0 +1,1 @@
+Significant birth defects occur at a rate of about 4 per 1000 births in humanpopulations. After a nuclear accident, there were 10 defects observed inthe next 1500 births. Find the probability of observing at least 10 defectsin this sample if the rate had not changed after the accident.

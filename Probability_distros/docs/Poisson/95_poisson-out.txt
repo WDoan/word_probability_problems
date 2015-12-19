@@ -1,0 +1,1 @@
+On an average, a typist mistakes while typing one page. What is theprobability that a randomly observed page in free of mistakes? Among 200 pages, inhow many pages would you expect mistakes?

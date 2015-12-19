@@ -1,0 +1,1 @@
+ The mean number of points per game scored by basketball players during a high school championship is 9.4, and the standard deviation is 1.5. Assuming that the number of points are normally distributed, what number of points per game will place a player in the top 15% players taking part in the basketball championship?

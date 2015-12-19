@@ -1,0 +1,1 @@
+A normally distributed set of data has a mean of 64 and a standard deviation of 7.Determine the probability that two randomly selected x–values are both between 50 and 71.

@@ -1,0 +1,1 @@
+Blood type is inherited. If both parents carry genes for the O and A blood types, each child has probability 0.25 of getting two O genes and so of having blood type O. Different children inherit independently of each other. We wish to find the probability that the first child these parents have with type O blood is their third child.

@@ -1,0 +1,1 @@
+When an unbiased coin is tossed eight times, what is the probability of obtaining less than 4 heads?

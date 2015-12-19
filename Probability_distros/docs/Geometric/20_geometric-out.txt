@@ -1,0 +1,1 @@
+The number of dice rolls follows a geometric distribution with parameter p = 1/6. The die must land on a number ≤ 5 three times in a row and thereafter it lands onthe 6.

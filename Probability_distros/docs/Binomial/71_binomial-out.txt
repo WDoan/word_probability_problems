@@ -1,0 +1,1 @@
+Suppose that 65% of the families in a town own computers, If ten families are surveyed at random,(a) what is the probability that at least five own computers?

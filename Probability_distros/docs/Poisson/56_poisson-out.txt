@@ -1,0 +1,1 @@
+A certain airline estimated that 0.8% of its customers with purchased tickets fail to show up for their flights. For one particular flight, the plane has 500 seats and the flight has been fully booked. How many additional tickets can the airline sell so that there is at least a 90% chance that everyone who shows up will have a seat?

@@ -1,0 +1,1 @@
+A plane engine has 200 independent working parts. The probability that any one ofthese parts fails is 0.5%. If the engine will stop operating if 5 of these parts fail what isthe probability that the engine fails?

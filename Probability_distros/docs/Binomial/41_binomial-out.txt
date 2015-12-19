@@ -1,0 +1,1 @@
+Brian enjoys his pizza. So much so that he eats pizza every night. He likes both pepperoni and mushroom, and each night he chooses randomly and independently between these two options. Given that each night he picks the mushroom option with probability 0.35, find the probability that he eats between 2 and 4 (inclusive) mushroom pizzas this week (7 days).

@@ -1,0 +1,1 @@
+Bacteria in hamburger are distributed through out the meat. Supposethat a large batch of hamburger has an average contamination of 0.3 bacteria/gram.Then the probability that a 10 gram sample will contain oneor fewer bacteria is:

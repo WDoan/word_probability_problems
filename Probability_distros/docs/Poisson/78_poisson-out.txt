@@ -1,0 +1,1 @@
+0.8% of packets of salt of a certain brand are underweight. Using Poissonapproximation, find the probability that, in a box of 200 packets, 4 or more packetsare underweight.

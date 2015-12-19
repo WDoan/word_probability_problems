@@ -1,0 +1,1 @@
+Suppose flaws (cracks, chips, specks, etc.) occur on the surface of glasswith density of 3 per square metre. What is the probability of there beingexactly 4 flaws on a sheet of glass of area 0.5 square metre?

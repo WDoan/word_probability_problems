@@ -1,0 +1,1 @@
+An unbiased coin is tossed 10 times. Find the probability that there are fewer than 3 heads tossed.

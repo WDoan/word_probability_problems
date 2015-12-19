@@ -1,0 +1,1 @@
+ It has been determined that 5% of drivers checked at a road stop show traces of alcohol and 10% of drivers checked do not wear seat belts. In addition, it has been observed that the two infractions are independent from one another. If an officer stops five drivers at random calculate the probability that exactly three of the drivers have committed any one of the two offenses.

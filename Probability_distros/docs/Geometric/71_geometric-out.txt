@@ -1,0 +1,1 @@
+Carla makes random guesses on her Statistics multiple-choice test, which has five choices for each question. We want to know how many questions Carla answers until she gets one correct. What is the probability that Carla’s first correct answer occurs within the first 6 questions?

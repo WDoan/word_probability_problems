@@ -1,0 +1,1 @@
+A newspaper finds that the mean number if typographical errors per page is 4. Find the probability thata) Exactly 3 typographical errors are found on a page.b) At most 3 typographical errors are found on a page.c) More than 3 typographical errors are found on a page.

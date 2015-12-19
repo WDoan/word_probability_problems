@@ -1,0 +1,1 @@
+There were ten green bottles sitting on the wall. The probability of a green bottle accidentally falling is 0.95. What is the probability that fewer than 8 of the green bottles accidentally fall?

@@ -1,0 +1,1 @@
+The number of traffic accidents that occur on a particular stretch of road during a month follows a Poisson distribution with a mean of  7. Find the probability of observing exactly  three accidents on this stretch of road next month. 

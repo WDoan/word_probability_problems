@@ -1,0 +1,1 @@
+The number of deaths due to stroke in the Vancouver region each yearvaries randomly with a mean of about 555 deaths per year. Assumingthat the number of deaths has an approximate Poisson distribution, thenthe probability that there will be at least 600 deaths due to stroke in anyone year is:

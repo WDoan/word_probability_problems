@@ -1,0 +1,1 @@
+A computer crashes once every 2 days on average. What is the probability of there being 2 crashes in one week?

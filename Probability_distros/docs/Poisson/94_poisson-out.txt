@@ -1,0 +1,1 @@
+The probability that a razor blade manufactured by a firm is defective is1/500. Blades are supplied in packets of 5 each. In a lot of 10,000 packets, how manypackets would(i) Be free defective blades?(ii) Contains exactly one defective blade?

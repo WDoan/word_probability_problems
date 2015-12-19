@@ -1,0 +1,1 @@
+A van hire firm know from their records that the daily demand for vans can be modelled by a Poissondistribution with mean 8.  a) 	Find the probability that, on a given day	i) At most 6 vans are hired	ii) At least 8 vans are hired

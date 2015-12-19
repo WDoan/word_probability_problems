@@ -1,0 +1,1 @@
+A family consists of 3 children. What is the probability that at most 2 of the children are boys?

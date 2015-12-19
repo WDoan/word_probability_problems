@@ -1,0 +1,1 @@
+2 percent of the fuses manufactured by a firm are expected to be defective,Find the probability that a box containing 200 fuses contains(i) defective fuses(ii) 3 or more defective fuse

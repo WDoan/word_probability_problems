@@ -1,0 +1,1 @@
+Ninety percent of a country’s population are right-handed. What is the probability that exactly 29 people in a group of 30 are right-handed?

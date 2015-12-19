@@ -1,0 +1,1 @@
+A farmer plants 12 saplings. On average, 15% of saplings planted fail to survive their first winter. Find the probability that more than one of his saplings will die in that first winter.

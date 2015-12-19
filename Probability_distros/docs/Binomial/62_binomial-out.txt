@@ -1,0 +1,1 @@
+What is the probability of getting 9 heads in 10 tosses of a fair coin?

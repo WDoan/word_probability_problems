@@ -1,0 +1,1 @@
+A normally distributed set of data has a mean of 101 and a standard deviation of 9.1. What percent of data fall between 82.8 and 110.1?

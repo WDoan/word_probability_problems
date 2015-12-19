@@ -1,0 +1,1 @@
+Assume that X has a Poisson distribution Po(lambda). Find each of the followingprobabilities:a) P(X=4) when lambda=2.0b) P(X>3) when lambda=6.2c) P(X<=3) when lambda=3.3

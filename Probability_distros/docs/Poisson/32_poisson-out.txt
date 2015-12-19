@@ -1,0 +1,1 @@
+The rate at which a particular defect occurs in lengths of plastic film beingproduced by a stable manufacturing process is 4.2 defects per 75 metrelength. A random sample of the film is selected and it was found that thelength of the film in the sample was 25 metres. What is the probabilitythat there will be at most 2 defects found in the sample?

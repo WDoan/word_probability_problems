@@ -1,0 +1,1 @@
+Assume that the dividends of electric utility stocks as of a given date have a symmetric distribution with mean of 8.5 percent and standard deviation of 2.5 percent. Find the probability that the average dividend of 25 such stocks will exceed 10 percent.

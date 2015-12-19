@@ -1,0 +1,1 @@
+A bakery sells and average of 1200 donuts per day with a standard deviation of 200 donuts.a) If it bakes 1300 donuts, what is the probability that it will sell all of them before the end of the day. (Assume a Normal distribution.)b) Assuming a Normal distribution, how many donuts must it bake to have a probability of .80 that it will not run out?

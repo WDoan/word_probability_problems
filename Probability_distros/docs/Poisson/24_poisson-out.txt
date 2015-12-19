@@ -1,0 +1,1 @@
+Suppose the number of babies born during an 8-hour shift at a hospital's maternity wing follows a Poisson distribution with a mean of  6 an hour. Find the probability that  five babies are born during a particular 1-hour period in this maternity wing. 

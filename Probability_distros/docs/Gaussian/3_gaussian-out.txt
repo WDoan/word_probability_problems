@@ -1,0 +1,1 @@
+The mean weight of 500 college students is 70 kg and the standard deviation is 3 kg. Assuming that the weight is normally distributed, determine how many students weigh:a) Between 60 kg and 75 kg.b) More than 90 kg.c) Less than 64 kg.d) Exactly 64 kg.e) 64 kg or less.

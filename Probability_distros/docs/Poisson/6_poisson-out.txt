@@ -1,0 +1,1 @@
+It has been observed that the average number of traffic accidents requiring medical assistance on the Hollywood Freeway between 7 and 8 AM on Wednesday mornings is 1. What, then, is the chance that there will be a need for exactly 2 ambulances on the Freeway, during that time slot on any given Wednesday morning? The hospital dispatcher needs to know.

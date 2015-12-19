@@ -1,0 +1,1 @@
+The length of time of long-distance telephone calls has mean of 18 minutes and standard deviation of 4 minutes. Suppose a sample of 50 telephone calls is used to reflect on the population of all long-distance calls.a) What is the chance that the average of the 50 calls is between 16 and 17 minutes?b) What theorem do we need in order to solve (a.)?

@@ -1,0 +1,1 @@
+Suppose that the distribution of weights of New Zealand hamsters is distributed normalwith mean 63.5 g and standard deviation 12.2 g. If there are 1000 weights in this population,how many of them are 78 g or greater?

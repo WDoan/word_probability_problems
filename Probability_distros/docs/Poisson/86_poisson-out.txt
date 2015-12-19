@@ -1,0 +1,1 @@
+A recent study of robberies for a certain geographic region showed an average of 1 robbery per 20,000 people ina day. In a city of 80,000 people,a) Find the mean number of robberies per dayb) Find the probability of	i. 0 robberies in any given day	ii. 1 robbery in any given day	iii. 2 robberies in any given day	iv. 3 or more robberies in any given day

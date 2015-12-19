@@ -1,0 +1,1 @@
+An oil company checks in various sites to detect oil. Each site testing costs $20,000. If the probability of detecting oil is 0.25, what is the probability that the company will spend exactly $100,000?

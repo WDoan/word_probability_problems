@@ -1,0 +1,1 @@
+An IQ test shows that the scores follow a distribution of N(65,18). It is desirable to arrange the participants into three groups (low intelligence, average intelligence and high intelligence) so that 20% of the partipants are filled under the first group, 65% in the second and 15% in the third. What are the scores that differentiate each intelligence group from one another?

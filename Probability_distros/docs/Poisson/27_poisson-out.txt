@@ -1,0 +1,1 @@
+There is an average of 2.4 fatal car wrecks per week in a large city. In any given week in a large city, what is the probability that there are 3 or more fatal car accidents?

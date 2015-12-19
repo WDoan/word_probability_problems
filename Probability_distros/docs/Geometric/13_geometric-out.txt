@@ -1,0 +1,1 @@
+What is the probability that a four will first appear on the fifth roll? How many rolls should we expect to need to obtain the first four, and what is the standard deviation for the number of rolls?

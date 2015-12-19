@@ -1,0 +1,1 @@
+The mean number of faults in a new house is 8. What is the probability of buying a new house with exactly 1 fault?

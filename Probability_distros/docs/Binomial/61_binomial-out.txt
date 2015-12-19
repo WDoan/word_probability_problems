@@ -1,0 +1,1 @@
+In each of 4 races, the Democrats have a 60% chance of winning. Assuming that the races are independent of each other, what is the probability that the Democrats will win majority of the races?

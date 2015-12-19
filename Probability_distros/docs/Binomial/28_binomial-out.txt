@@ -1,0 +1,1 @@
+A manufacturer of metal pistons finds that on the average, 12% of his pistons are rejected because they are either oversize or undersize. What is the probability that a batch of 10 pistons will contain(a) no more than 2 rejects?

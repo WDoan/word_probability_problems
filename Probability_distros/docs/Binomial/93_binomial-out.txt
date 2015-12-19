@@ -1,0 +1,1 @@
+A packet of vegetable seeds has a germination rate of 96%. What is the probability that exactly 10 of 12 seeds planted will sprout?

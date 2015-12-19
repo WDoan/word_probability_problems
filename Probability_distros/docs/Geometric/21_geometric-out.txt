@@ -1,0 +1,1 @@
+Find the probability that the number of heads before the first tail is between one and five, inclusive.

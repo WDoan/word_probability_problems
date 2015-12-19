@@ -1,0 +1,1 @@
+The number of goals scored in a match by a CJC team follows a Poisson Distribution with mean lambda.If the probability that the team scores no goals in a match is 0.301, find a)	the value of lambdab)	the probability that the team scores less that 3 goals in a matchc)	the probability that the team scores less than 3 goals in 2 matches. 

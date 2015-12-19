@@ -1,0 +1,1 @@
+Suppose that the life of a particular brand of watch battery is 1000 days on average with a standard deviation of 50. Suppose further that the lifetimes of these batteries are normally distributed.a) What percentage of these batteries will last more than 920 days?b) How long must a battery last so that it is in the top 10% of all batteries?

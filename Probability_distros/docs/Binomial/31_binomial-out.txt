@@ -1,0 +1,1 @@
+A lab network consisting of 20 computers was attacked by a computer virus. This virus enters each computer with probability 0.4, independently of other computers.Find the probability that the virus enters at least 10 computers.

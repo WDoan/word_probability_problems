@@ -1,0 +1,1 @@
+The number of persons joining a cinema queue in a minute has Poisson distributionwith parameter 5.8. Find the probability that (i) no one joins the queue in a particular minute(ii) 2 or more persons join the queue in the minute.

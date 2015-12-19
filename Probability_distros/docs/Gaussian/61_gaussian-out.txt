@@ -1,0 +1,1 @@
+IQ scores are supposed to be normally distributed with a mean of 100 and a standard deviation of 15.a) If a person scores 120 on an IQ test, what percentage of the population is above him or her?b) How low would a person have to score to be in the lowest 1% of the population.

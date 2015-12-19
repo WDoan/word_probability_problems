@@ -1,0 +1,1 @@
+The mean number if days with 0.01 inch or more precipitation per month in Baltimore, Maryland is about 9.5.Find the probability that in a given month,a) There are exactly 10 days with 0.01 inch or more precipitation.b) There are at most 10 days with 0.01 inch or more precipitation.c) There are more than 10 days with 0.01 inches or more precipitation.

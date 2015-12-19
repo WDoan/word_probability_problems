@@ -1,0 +1,1 @@
+Toss a coin for 12 times. What is the probability of getting exactly 7 heads?

@@ -1,0 +1,1 @@
+On average, I have 12 students visiting my office during office hours eachweek. What is the probability that I havea) 30 students in two weeks?b) no student in a week?

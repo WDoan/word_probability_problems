@@ -1,0 +1,1 @@
+Carla makes random guesses on her Statistics multiple-choice test, which has five choices for each question. We want to know how many questions Carla answers until she gets one correct. Define a success in this context and define the random variable X of interest. What is the probability of success?

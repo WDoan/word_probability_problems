@@ -1,0 +1,1 @@
+The number of taxis arriving at a train station follows the Poissondistribution. The average arrival rate is 30 taxis per hour. Jane has just missedone. What is the probability that her waiting time for the next arriving taxi isa) Less than 2 minute?b) More than 10 minutes?

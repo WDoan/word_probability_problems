@@ -1,0 +1,1 @@
+In a biological cell the average member of genes that will change intomutant genes, when treated radioactively, is 2.4. Assuming Poisson probabilitydistribution find the probability that there are at most 3 mutantgenes in a biological cell after the radioactive treatment.

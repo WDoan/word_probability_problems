@@ -1,0 +1,1 @@
+Imagine you are threading a needle. The probability you thread it on each ​attempt is 0.3. What is the probability you thread it the third attempt?

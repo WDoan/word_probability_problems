@@ -1,0 +1,1 @@
+If heights of 3rd graders follow a normal distribution with a mean of 52 inches and astandard deviation of 2.5 inches, what is the z-score of a 3rd grader who is 47 inches tall? 

@@ -1,0 +1,1 @@
+ACME Inc. produces super-tactile widgets for the latest DIY craze, and they are sold inboxes of 8. Unfortunately, 2% of them are faulty. Find the probability that a given box has at least one faulty widget in it.

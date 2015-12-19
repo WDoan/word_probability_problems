@@ -1,0 +1,1 @@
+At a call center, the time elapsed between the arrival of a phone call and the arrival of the next phone call has an exponential distribution with expected value equal to 15 seconds. Furthermore, it is independent of previous arrivals. What is the probability that less than 50 phone calls arrive during the next 15 minutes?

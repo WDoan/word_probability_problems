@@ -1,0 +1,1 @@
+Each of the 200 questions in a test has a right and wrong answer. A passing grade is defined as a score greater than 110 correctly answersed questions. Supposing that the answers are entered at random, calculate the probability of passing the examination.

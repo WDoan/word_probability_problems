@@ -1,0 +1,1 @@
+Electric wire is produced in lengths of 300 metres.  On average there is 1 defect in every 3000 metres of wire produced.	a)	Find the probability that in a 300 metre length there will be at least one defect.b)	Find the probability that out of ten 300 metre lengths,  more than one contains one or more defects.

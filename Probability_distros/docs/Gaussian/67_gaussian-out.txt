@@ -1,0 +1,1 @@
+The lengths of the sardines received by a certain cannery is normally distributed with mean 4.62 inches anda standard deviation 0.23 inch. What percentage of all these sardines is between 4.35 and 4.85 inches long?

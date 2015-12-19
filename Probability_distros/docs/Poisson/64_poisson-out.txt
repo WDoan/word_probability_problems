@@ -1,0 +1,1 @@
+The average number of deaths attributable to typhoid fever in a year period in a population is 4.6. What is the probability that in a given year, there area) 3 deaths due to typhoid feverb) 0 deaths due to typhoid feverc) less than 4 deaths due to typhoid fever

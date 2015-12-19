@@ -1,0 +1,1 @@
+If X is a random variable with a distribution of N(u,o), find:p(u−3o≤X≤u+3o)

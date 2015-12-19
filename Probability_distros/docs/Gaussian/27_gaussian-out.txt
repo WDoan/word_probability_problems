@@ -1,0 +1,1 @@
+Let X be a Normal random variable with parameters u=8 and o=3.5.Compute(a) P(X<0)(b) P(X>15)(c) P(|X|<2)

@@ -1,0 +1,1 @@
+Let  X be a normal random variable with mean  u=3 and variance  o^2=4. Compute the following probability:P(-0.92<=X<=6.92)

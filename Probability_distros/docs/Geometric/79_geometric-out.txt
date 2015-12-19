@@ -1,0 +1,1 @@
+The State Department is trying to identify an individual who speaks Farsi to fill a foreign embassy position. They have determined that 4% of the applicant pool are fluent in Farsi. What is the probability that they will find the first Farsi speaking applicant on the 40th interview?

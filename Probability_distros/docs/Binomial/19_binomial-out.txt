@@ -1,0 +1,1 @@
+A fair coin is tossed 5 times.  What is the probability that it lands tails up exactly 3 times?

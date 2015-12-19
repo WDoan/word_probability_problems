@@ -1,0 +1,1 @@
+Laboratory tests show that the lives of a particular brand of light bulb are normally distributed with a mean of 750 hours and a standard deviation of 75 hours.  What is the probability that a light bulb of this brand will burn:(a)  for more than 900 hours?(b)  for less than 800 hours?(c)  between 750 and 900 hours?(d)  between 600 and 800 hours?

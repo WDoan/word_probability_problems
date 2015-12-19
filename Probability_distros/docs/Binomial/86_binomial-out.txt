@@ -1,0 +1,1 @@
+The LMB Company manufactures tires. They claim that only .007 of LMB tires are defective. What is the probability of finding 2 defective tires in a random sample of 50 LMB tires?

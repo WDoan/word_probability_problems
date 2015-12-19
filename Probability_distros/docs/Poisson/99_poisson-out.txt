@@ -1,0 +1,1 @@
+The average number of claims per day made to the Insurance Company for damage or losses is 3.1.What is the probability that in any given day(i) fewer than 2 claims will be made?(ii) exactly 2 claims will be made?(iii) 2 or more claims will be made?(iv) more than 2 claims will be made? 

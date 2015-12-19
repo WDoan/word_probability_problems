@@ -1,0 +1,1 @@
+About 75% of the seeds of a certain kind sold in a shop germinate under normal conditions. Sandra buys a packet containing 10 seeds. What is the probability that 3 of them germinate?

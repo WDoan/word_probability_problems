@@ -1,0 +1,1 @@
+A life insurance insured 9000 men aged 45. The probability that a 45-year old man will die within one year is 0.0035. Within the next year, what is the probability that the insurance company will pay between 30 and 33 claims (both inclusive) among these 7000 men?

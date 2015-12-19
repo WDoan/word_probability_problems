@@ -1,0 +1,1 @@
+The number of babies born with a particular severe eye defect each yearvaries randomly, but at a rate of about 30/10,000 live births. Last yearthere were about 15,000 live births. The approximate probability thatthere will be more than 58 babies born with this eye defect is:

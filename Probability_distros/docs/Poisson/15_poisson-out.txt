@@ -1,0 +1,1 @@
+On an average Friday, a waitress gets no tip from 5 customers. Find the probability that she will get no tip from 7 customers this Friday.

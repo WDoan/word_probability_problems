@@ -1,0 +1,1 @@
+ A pharmaceutical lab states that a drug causes negative side effects in 3 of every 100 patients. To confirm this affirmation, another laboratory chooses 5 people at random who have consumed the drug. What is the probability that none of the five patients experience side effects?

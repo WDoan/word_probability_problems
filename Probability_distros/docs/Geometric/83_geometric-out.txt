@@ -1,0 +1,1 @@
+Suppose that Erin guesses on each question of a multiple-choice quiz. If each question has four different choices, find the probability that Erin gets her first correct answer on her second question.

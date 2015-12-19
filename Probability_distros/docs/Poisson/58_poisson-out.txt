@@ -1,0 +1,1 @@
+In a certain manuscript of 1000 pages, 300 typographical errors occur.a) What is the probability that a randomly selected page will be error free?b) What is the probability that 10 randomly selected pages will have at most 3 errors?

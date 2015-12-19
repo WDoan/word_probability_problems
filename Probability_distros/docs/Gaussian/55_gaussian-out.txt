@@ -1,0 +1,1 @@
+Suppose SAT scores are normally distributed with a mean of 1000 and a standard deviation of 100.a) What percentage will be between 900 and 1100?b) What percentage of scores will be between 1100 and 1200?c) What percentage of scores will be below 850?d) How high must the score be to be in the top 2% of all scores?

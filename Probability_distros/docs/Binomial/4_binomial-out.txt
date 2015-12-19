@@ -1,0 +1,1 @@
+What is the probability of obtaining 45 or fewer heads in 100 tosses of a coin?

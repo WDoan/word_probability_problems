@@ -1,0 +1,1 @@
+ A biased coin is tossed 6 times. The probability of heads on any toss is 0.3. Let X denote the number of heads that come up. Calculate P( X = 2 ).

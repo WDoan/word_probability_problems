@@ -1,0 +1,1 @@
+Assume the geometric distribution applies use the given probablity of sucess p to find the indicated probability. Find P(4) when P=0.30.

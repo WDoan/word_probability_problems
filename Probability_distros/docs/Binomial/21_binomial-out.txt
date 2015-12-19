@@ -1,0 +1,1 @@
+On any given day, the probability that the entire Watson family eats dinner together is 2/5.  Find the probability that, during any 7-day period, the Watson's each dinner together at least six times.

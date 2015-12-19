@@ -1,0 +1,1 @@
+The ratio of boys to girls at birth in Singapore is quite high at 1.09:1.What proportion of Singapore families with exactly 6 children will have at least 3 boys? (Ignore the probability of multiple births.)

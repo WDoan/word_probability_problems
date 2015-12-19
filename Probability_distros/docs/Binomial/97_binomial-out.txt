@@ -1,0 +1,1 @@
+In a bombing attack there is 40% chance that any one bomb will strike the target. Two direct hits are required to destroy the target completely. What is the probability that the target will be destroyed, if 3 bombs are dropped?

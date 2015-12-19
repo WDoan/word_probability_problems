@@ -1,0 +1,1 @@
+The ABC Company manufactures toy robots. About 1 toy robot per 100 does not work. You purchase 35 ABC toy robots. What is the probability that exactly 4 do not work?

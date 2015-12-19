@@ -1,0 +1,1 @@
+During a typical football game, a coach can expect 3.2 injuries. Find the probability that the team will have at most 1 injury in this game.

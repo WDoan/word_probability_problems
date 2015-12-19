@@ -1,0 +1,1 @@
+The amount of fuel that a vessel has in its tank at the beginning of a voyage hasa normal distribution with mean 1200 litres and standard deviation 80 litres. Theamount which it will use on the voyage has a normal distribution with mean 800litres and standard deviation 50 litres. Find the probability that it has less than 300litres in the tank at the end of the voyage

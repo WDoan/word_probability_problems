@@ -1,0 +1,1 @@
+ Suppose a person repeatedly plays a game of chance and has a probability of 1/1000 of winning. What is the probability that the player first wins thegame on his hundredth try?

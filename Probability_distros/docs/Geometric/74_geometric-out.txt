@@ -1,0 +1,1 @@
+Two friends who take metro to their jobs from the same station arrive to the station uniformly randomly between 7 and 7:20 in the morning. They are willing to wait for one another for 5 minutes, after which they take a train wether together or alone. What is the probability of their meeting at the station?

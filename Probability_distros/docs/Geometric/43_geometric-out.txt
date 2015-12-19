@@ -1,0 +1,1 @@
+Cards with athlete’s pictures are prizes in a certain type of cereal. There is a 20% chance that the card has a picture of Tiger Woods on it. How many boxes of cereal can you expect to open before you first find a picture of Tiger? 

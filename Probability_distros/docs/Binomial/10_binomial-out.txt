@@ -1,0 +1,1 @@
+The probability of a man hitting the target at a shooting range is 1/4. If he shoots 10 times, what is the probability that he hits the target exactly three times?

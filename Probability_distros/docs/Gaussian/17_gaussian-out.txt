@@ -1,0 +1,1 @@
+An insurance company states that 10% of all fire insurance claims are fraudulent. Suppose the company is correct, and that it receives 125 claims.a) What's the probability that at least 15 claims are fraudulent?b) What's the probability that less than 10 claims are fraudulent?

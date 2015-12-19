@@ -1,0 +1,1 @@
+Identical computer components are shipped in boxes of 5. About 15% of components have defects. Boxes are tested in a random order.(a) What is the probability that a randomly selected box has only non-defective components?

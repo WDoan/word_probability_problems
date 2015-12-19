@@ -1,0 +1,1 @@
+A fair die has four faces numbered one to four. What is the probability of rolling a two exactly three times in ten rolls of the die?

@@ -1,0 +1,1 @@
+Among employed women, 25% have never been married. Suppose we randomly sample women in a particular business office. What is the probability that I sample 5 women before finding one who has never been married?  

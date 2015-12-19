@@ -1,0 +1,1 @@
+Let a sum of 7 when two dice are rolled be considered a success. Find the probability that the first sum of 7 occurs on the 3rd roll.

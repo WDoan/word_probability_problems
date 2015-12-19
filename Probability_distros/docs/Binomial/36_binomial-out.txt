@@ -1,0 +1,1 @@
+Thirty percent of students at a large university are known to be short-sighted. If twenty students are picked at random, find the probability that at most two of them are shortsighted.

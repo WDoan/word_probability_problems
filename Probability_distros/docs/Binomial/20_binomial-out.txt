@@ -1,0 +1,1 @@
+After studying a couple's family history, a doctor determines that the probability of any child born to this couple having a gene for disease X is 1 out of 4.  If the couple has three children, what is the probability that exactly two of the children have the gene for disease X?

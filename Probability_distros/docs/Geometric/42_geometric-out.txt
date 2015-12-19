@@ -1,0 +1,1 @@
+Cards with athlete’s pictures are prizes in a certain type of cereal. There is a 20% chance that the card has a picture of Tiger Woods on it. What is the probability that the first box that has Tiger’s picture is at most the third box that you open?

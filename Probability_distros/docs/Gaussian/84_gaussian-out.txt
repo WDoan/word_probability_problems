@@ -1,0 +1,1 @@
+The height of male Labrador Retrievers is normally distributed with a mean of23.5 inches and a standard deviation of 0.8 inches. (The height of a dog is measuredfrom his shoulder.) Labradors must fall under a height limit in order to participate incertain dog shows. If the maximum height is 24.5 inches for male labs, what percentageof male labs are not eligible? 

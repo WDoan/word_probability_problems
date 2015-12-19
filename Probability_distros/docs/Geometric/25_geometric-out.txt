@@ -1,0 +1,1 @@
+Suppose a person repeatedly plays a game of chance and has a probability of 1/1000 of winning. What is the expected number of times the player mustplay until he wins the game?

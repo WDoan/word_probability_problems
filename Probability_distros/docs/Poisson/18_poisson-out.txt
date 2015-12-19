@@ -1,0 +1,1 @@
+The number of traffic accidents that occurs on a particular stretch of road during a month follows a Poisson distribution with a mean of  9.4. Find the probability that less than two accidents will occur on this stretch of road during a randomly selected month.

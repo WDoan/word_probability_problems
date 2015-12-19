@@ -1,0 +1,1 @@
+Suppose there are 30,000 University of Utah students of which 400 carry concealed weapons permits. If JB is teaching an astronomy class of 120 students, what is the probability that one or more is packing? 

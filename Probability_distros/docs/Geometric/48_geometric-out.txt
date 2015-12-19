@@ -1,0 +1,1 @@
+Suppose a computer chip manufacturer rejects 2% of chips produced because they fail pre-sale testing. What is the probability that the first bad chip you find is at most the tenth chip you test? 

@@ -1,0 +1,1 @@
+A radioactive substance emits gamma rays at random. On average one gram of thesubstance will omit 4 gamma rays per second. What is the probability that one gram ofthe substance will omit 10 gamma rays in the next second? What is the probability thatit will omit at least one gamma ray in the next second?
